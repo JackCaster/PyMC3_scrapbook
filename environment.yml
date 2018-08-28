@@ -1,4 +1,4 @@
-name: intro_to_pymc3
+name: pymc3_scrapbook
 
 channels:
  - defaults
